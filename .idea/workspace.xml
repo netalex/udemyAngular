@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2c25304a-e1d0-4c1d-95ae-1971932ba655" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first-app/src/app/app.component.html" afterPath="$PROJECT_DIR$/first-app/src/app/app.component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first-app/src/app/app.module.ts" afterPath="$PROJECT_DIR$/first-app/src/app/app.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first-app/src/app/server/server.component.html" afterPath="$PROJECT_DIR$/first-app/src/app/server/server.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first-app/src/app/server/server.component.ts" afterPath="$PROJECT_DIR$/first-app/src/app/server/server.component.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -71,11 +71,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="warning-alert.component.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="warning-alert.component.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/first-app/src/app/warning-alert/warning-alert.component.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
               <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/first-app/src/app/server/server.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.component.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/first-app/src/app/server/server.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="63" lean-forward="false" selection-start-line="0" selection-start-column="63" selection-end-line="0" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -91,31 +111,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="servers.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/first-app/src/app/servers/servers.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="servers.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/first-app/src/app/servers/servers.component.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="49" lean-forward="false" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="server.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/first-app/src/app/server/server.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -130,9 +130,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/first-app/.angular-cli.json" />
-        <option value="$PROJECT_DIR$/first-app/src/app/server/server.component.html" />
         <option value="$PROJECT_DIR$/first-app/src/app/app.module.ts" />
-        <option value="$PROJECT_DIR$/first-app/src/app/server/server.component.ts" />
         <option value="$PROJECT_DIR$/first-app/src/app/servers/servers.component.html" />
         <option value="$PROJECT_DIR$/first-app/src/app/servers/servers.component.ts" />
         <option value="$PROJECT_DIR$/first-app/src/app/app.component.css" />
@@ -141,6 +139,8 @@
         <option value="$PROJECT_DIR$/first-app/src/app/warning-alert/warning-alert.component.html" />
         <option value="$PROJECT_DIR$/first-app/src/app/success-alert/success-alert.component.css" />
         <option value="$PROJECT_DIR$/first-app/src/app/warning-alert/warning-alert.component.css" />
+        <option value="$PROJECT_DIR$/first-app/src/app/server/server.component.ts" />
+        <option value="$PROJECT_DIR$/first-app/src/app/server/server.component.html" />
       </list>
     </option>
   </component>
@@ -265,7 +265,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516207936747</updated>
-      <workItem from="1516207938237" duration="7846000" />
+      <workItem from="1516207938237" duration="8286000" />
     </task>
     <task id="LOCAL-00001" summary="first component s2l15">
       <created>1516219300514</created>
@@ -323,11 +323,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516275997464</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="basics-assignment-1">
+      <created>1516278651594</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1516278651594</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7846000" />
+    <option name="totallyTimeSpent" value="8286000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -393,7 +400,8 @@
     <MESSAGE value="first component s2l18" />
     <MESSAGE value="first component s2l19" />
     <MESSAGE value="first component s2l20" />
-    <option name="LAST_COMMIT_MESSAGE" value="first component s2l20" />
+    <MESSAGE value="basics-assignment-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="basics-assignment-1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -415,14 +423,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/first-app/src/app/server/server.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
           <folding />
         </state>
       </provider>
@@ -454,14 +454,6 @@
             <marker date="1516277491000" expanded="true" signature="598:621" ph="[...]" />
             <marker date="1516277491000" expanded="true" signature="694:697" ph="{...}" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/first-app/src/app/server/server.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -536,6 +528,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first-app/src/app/server/server.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first-app/src/app/server/server.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="63" lean-forward="false" selection-start-line="0" selection-start-column="63" selection-end-line="0" selection-end-column="63" />
           <folding />
         </state>
       </provider>
