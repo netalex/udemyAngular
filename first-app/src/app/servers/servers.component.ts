@@ -14,11 +14,17 @@ export class ServersComponent implements OnInit {
   nomeutente='Pippo';
   serverCreated=false;
   constructor() {
+
+
+
     setTimeout(()=>{
       this.allowNewServer=true;
     },200);
 
   }
+
+
+
 
   ngOnInit() {
 
