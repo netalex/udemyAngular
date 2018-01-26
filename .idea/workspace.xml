@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2c25304a-e1d0-4c1d-95ae-1971932ba655" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first-app/src/app/server/server.component.html" afterPath="$PROJECT_DIR$/first-app/src/app/server/server.component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first-app/src/app/server/server.component.ts" afterPath="$PROJECT_DIR$/first-app/src/app/server/server.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first-app/src/app/servers/servers.component.html" afterPath="$PROJECT_DIR$/first-app/src/app/servers/servers.component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first-app/src/app/servers/servers.component.ts" afterPath="$PROJECT_DIR$/first-app/src/app/servers/servers.component.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -43,8 +39,8 @@
       <file leaf-file-name="server.component.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/first-app/src/app/server/server.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="41" lean-forward="false" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+            <state relative-caret-position="210">
+              <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -270,7 +266,7 @@
       <option name="presentableId" value="Default" />
       <updated>1516207936747</updated>
       <workItem from="1516207938237" duration="10757000" />
-      <workItem from="1516625583563" duration="11148000" />
+      <workItem from="1516625583563" duration="11165000" />
     </task>
     <task id="LOCAL-00001" summary="first component s2l15">
       <created>1516219300514</created>
@@ -398,11 +394,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516975365136</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Sezione 2: completata per 29/30&#10;Appena completato:&#10;36. Styling Elements Dynamically with ngStyle">
+      <created>1516979347514</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1516979347514</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21905000" />
+    <option name="totallyTimeSpent" value="21922000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -488,7 +491,8 @@
     <MESSAGE value="s2l34. 4. Using ngIf to Output Data Conditionally" />
     <MESSAGE value="ng template" />
     <MESSAGE value="35. Enhancing ngIf with an Else Condition" />
-    <option name="LAST_COMMIT_MESSAGE" value="35. Enhancing ngIf with an Else Condition" />
+    <MESSAGE value="Sezione 2: completata per 29/30&#10;Appena completato:&#10;36. Styling Elements Dynamically with ngStyle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sezione 2: completata per 29/30&#10;Appena completato:&#10;36. Styling Elements Dynamically with ngStyle" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -724,8 +728,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/first-app/src/app/server/server.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="41" lean-forward="false" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+        <state relative-caret-position="210">
+          <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
           <folding />
         </state>
       </provider>
