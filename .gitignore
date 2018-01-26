@@ -1,0 +1,5 @@
+*.mp4
+/video
+package-lock.json
+.idea
+.idea/
