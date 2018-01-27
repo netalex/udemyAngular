@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c25304a-e1d0-4c1d-95ae-1971932ba655" name="Default" comment="38. Outputting Lists with ngFor">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="2c25304a-e1d0-4c1d-95ae-1971932ba655" name="Default" comment="39. basics-assignment-3-start" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -282,7 +280,7 @@
       <option name="presentableId" value="Default" />
       <updated>1516207936747</updated>
       <workItem from="1516207938237" duration="10757000" />
-      <workItem from="1516625583563" duration="15792000" />
+      <workItem from="1516625583563" duration="15887000" />
     </task>
     <task id="LOCAL-00001" summary="first component s2l15">
       <created>1516219300514</created>
@@ -431,11 +429,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516991609589</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="39. basics-assignment-3-start">
+      <created>1517037436646</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1517037436646</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26549000" />
+    <option name="totallyTimeSpent" value="26644000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -523,7 +528,8 @@
     <MESSAGE value="Sezione 2: completata per 29/30&#10;Appena completato:&#10;36. Styling Elements Dynamically with ngStyle" />
     <MESSAGE value="37. Applying CSS Classes Dynamically with ngClass" />
     <MESSAGE value="38. Outputting Lists with ngFor" />
-    <option name="LAST_COMMIT_MESSAGE" value="38. Outputting Lists with ngFor" />
+    <MESSAGE value="39. basics-assignment-3-start" />
+    <option name="LAST_COMMIT_MESSAGE" value="39. basics-assignment-3-start" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
