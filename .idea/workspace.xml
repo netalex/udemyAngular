@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c25304a-e1d0-4c1d-95ae-1971932ba655" name="Default" comment="">
+    <list default="true" id="2c25304a-e1d0-4c1d-95ae-1971932ba655" name="Default" comment="38. Outputting Lists with ngFor">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first-app/src/app/servers/servers.component.html" afterPath="$PROJECT_DIR$/first-app/src/app/servers/servers.component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first-app/src/app/servers/servers.component.ts" afterPath="$PROJECT_DIR$/first-app/src/app/servers/servers.component.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,31 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="success-alert.component.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/first-app/src/app/success-alert/success-alert.component.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="warning-alert.component.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/first-app/src/app/warning-alert/warning-alert.component.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="server.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/first-app/src/app/server/server.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            <state relative-caret-position="146">
+              <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
               <folding>
                 <marker date="1516980200000" expanded="true" signature="154:185" ph="{...}" />
                 <marker date="1516980200000" expanded="true" signature="229:285" ph="{...}" />
@@ -64,7 +42,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="servers.component.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="servers.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/first-app/src/app/servers/servers.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
@@ -74,14 +52,45 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/first-app/src/main.ts">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basics-assignment-3-start/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="how-to-use.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/basics-assignment-3-start/how-to-use.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#47#0" expanded="true" />
-              </folding>
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basics-assignment-3-start/src/app/app.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="13" column="98" lean-forward="false" selection-start-line="13" selection-start-column="98" selection-end-line="13" selection-end-column="98" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basics-assignment-3-start/src/app/app.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -116,19 +125,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/first-app/src/app/app.module.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="30" lean-forward="false" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#58#0" expanded="true" />
-                <marker date="1516940684000" expanded="true" signature="619:632" ph="[...]" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -149,6 +145,8 @@
         <option value="$PROJECT_DIR$/first-app/src/app/server/server.component.html" />
         <option value="$PROJECT_DIR$/first-app/src/app/servers/servers.component.ts" />
         <option value="$PROJECT_DIR$/first-app/src/app/servers/servers.component.html" />
+        <option value="$PROJECT_DIR$/basics-assignment-3-start/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/basics-assignment-3-start/src/app/app.component.html" />
       </list>
     </option>
   </component>
@@ -192,6 +190,24 @@
             <path>
               <item name="udemyAngular" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemyAngular" type="462c0819:PsiDirectoryNode" />
+              <item name="basics-assignment-3-start" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="udemyAngular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemyAngular" type="462c0819:PsiDirectoryNode" />
+              <item name="basics-assignment-3-start" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="udemyAngular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemyAngular" type="462c0819:PsiDirectoryNode" />
+              <item name="basics-assignment-3-start" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="udemyAngular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemyAngular" type="462c0819:PsiDirectoryNode" />
               <item name="first-app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -222,14 +238,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="servers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemyAngular" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemyAngular" type="462c0819:PsiDirectoryNode" />
-              <item name="first-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="warning-alert" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -274,7 +282,7 @@
       <option name="presentableId" value="Default" />
       <updated>1516207936747</updated>
       <workItem from="1516207938237" duration="10757000" />
-      <workItem from="1516625583563" duration="12559000" />
+      <workItem from="1516625583563" duration="15792000" />
     </task>
     <task id="LOCAL-00001" summary="first component s2l15">
       <created>1516219300514</created>
@@ -416,11 +424,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516981346810</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="38. Outputting Lists with ngFor">
+      <created>1516991609589</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1516991609589</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23316000" />
+    <option name="totallyTimeSpent" value="26549000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -433,10 +448,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -508,7 +522,8 @@
     <MESSAGE value="35. Enhancing ngIf with an Else Condition" />
     <MESSAGE value="Sezione 2: completata per 29/30&#10;Appena completato:&#10;36. Styling Elements Dynamically with ngStyle" />
     <MESSAGE value="37. Applying CSS Classes Dynamically with ngClass" />
-    <option name="LAST_COMMIT_MESSAGE" value="37. Applying CSS Classes Dynamically with ngClass" />
+    <MESSAGE value="38. Outputting Lists with ngFor" />
+    <option name="LAST_COMMIT_MESSAGE" value="38. Outputting Lists with ngFor" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -692,7 +707,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#47#0" expanded="true" />
+            <element signature="e#0#47#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -702,7 +717,7 @@
         <state relative-caret-position="330">
           <caret line="22" column="30" lean-forward="false" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
           <folding>
-            <element signature="e#0#58#0" expanded="true" />
+            <element signature="e#0#58#0" expanded="false" />
             <marker date="1516940684000" expanded="true" signature="619:632" ph="[...]" />
           </folding>
         </state>
@@ -724,17 +739,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/first-app/src/app/server/server.component.ts">
+    <entry file="file://$PROJECT_DIR$/first-app/src/app/servers/servers.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-          <folding>
-            <marker date="1516980200000" expanded="true" signature="154:185" ph="{...}" />
-            <marker date="1516980200000" expanded="true" signature="229:285" ph="{...}" />
-            <marker date="1516980200000" expanded="true" signature="306:340" ph="{...}" />
-            <marker date="1516980200000" expanded="true" signature="358:430" ph="{...}" />
-            <marker date="1516980200000" expanded="true" signature="444:504" ph="{...}" />
-          </folding>
+        <state relative-caret-position="198">
+          <caret line="33" column="39" lean-forward="false" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics-assignment-3-start/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -746,18 +766,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/first-app/src/app/servers/servers.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="33" column="39" lean-forward="false" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/first-app/src/app/servers/servers.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="41" lean-forward="false" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first-app/src/app/server/server.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding>
+            <marker date="1516980200000" expanded="true" signature="154:185" ph="{...}" />
+            <marker date="1516980200000" expanded="true" signature="229:285" ph="{...}" />
+            <marker date="1516980200000" expanded="true" signature="306:340" ph="{...}" />
+            <marker date="1516980200000" expanded="true" signature="358:430" ph="{...}" />
+            <marker date="1516980200000" expanded="true" signature="444:504" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics-assignment-3-start/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="13" column="98" lean-forward="false" selection-start-line="13" selection-start-column="98" selection-end-line="13" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics-assignment-3-start/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics-assignment-3-start/how-to-use.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
