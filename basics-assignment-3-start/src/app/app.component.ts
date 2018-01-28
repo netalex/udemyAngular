@@ -11,7 +11,7 @@ export class AppComponent {
 
   setTimeStamp(){
    let now = new Date();
-   return now.getHours().toString()+':'+now.getMinutes().toString()+':'+now.getSeconds().toString()+'-'+now.getDay().toString()+'/'+now.getMonth()+'/'+now.getFullYear().toString();
+   return now.getHours().toString()+':'+now.getMinutes().toString()+':'+now.getSeconds().toString()+':'+now.getMilliseconds()+'-'+now.getDay().toString()+'/'+now.getMonth()+'/'+now.getFullYear().toString();
   };
 
   setLog(){
