@@ -6,33 +6,24 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  showSecret:boolean=false;
+  showPwd:boolean=false;
   log=[];
 
-/*
   setTimeStamp(){
    let now = new Date();
    return now.getHours().toString()+':'+now.getMinutes().toString()+':'+now.getSeconds().toString()+':'+now.getMilliseconds()+'-'+now.getDay().toString()+'/'+now.getMonth()+'/'+now.getFullYear().toString();
   };
-*/
 
-/*
   setLog(){
     this.log.push(this.setTimeStamp());
   }
-*/
 
- /* displayDetails(){
+  displayDetails(){
     this.setLog();
-    if (!this.showSecret){
-      this.showSecret=true;
+    if (!this.showPwd){
+      this.showPwd=true;
     }else{
-      this.showSecret=false
+      this.showPwd=false
     }
-  };
-*/
-  onToggleDetails(){
-    this.showSecret=!this.showSecret;
-    this.log.push(new Date())
   };
 }

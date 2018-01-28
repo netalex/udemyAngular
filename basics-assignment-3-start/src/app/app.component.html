@@ -10,8 +10,8 @@
       </ol>
     </div>
     <div class="col-xs-12">
-      <button class="btn btn-primary" (click)="displayDetails()">Display Details</button>
-      <p *ngIf="showPwd" >Secret Password = 'tuna' </p>
+      <button class="btn btn-primary" (click)="onToggleDetails()">Display Details</button>
+      <p *ngIf="showSecret" >Secret Password = 'tuna' </p>
       <hr>
       <p>{{log.length}} click total<span *ngIf="log.length!==0">,last click @ {{log[log.length - 1]}}</span></p>
       <h6>click test:</h6>
