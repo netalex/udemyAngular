@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2c25304a-e1d0-4c1d-95ae-1971932ba655" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basics-assignment-3-start/src/app/app.component.css" afterPath="$PROJECT_DIR$/basics-assignment-3-start/src/app/app.component.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basics-assignment-3-start/src/app/app.component.html" afterPath="$PROJECT_DIR$/basics-assignment-3-start/src/app/app.component.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -101,8 +102,18 @@
       <file leaf-file-name="app.component.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/basics-assignment-3-start/src/app/app.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="111" lean-forward="false" selection-start-line="18" selection-start-column="111" selection-end-line="18" selection-end-column="111" />
+            <state relative-caret-position="285">
+              <caret line="19" column="58" lean-forward="false" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.component.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basics-assignment-3-start/src/app/app.component.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -113,16 +124,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
               <caret line="33" column="39" lean-forward="false" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lifecycle_hooks.d.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/first-app/node_modules/@angular/core/src/metadata/lifecycle_hooks.d.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="48" column="17" lean-forward="false" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -149,6 +150,7 @@
         <option value="$PROJECT_DIR$/first-app/src/app/servers/servers.component.ts" />
         <option value="$PROJECT_DIR$/first-app/src/app/servers/servers.component.html" />
         <option value="$PROJECT_DIR$/basics-assignment-3-start/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/basics-assignment-3-start/src/app/app.component.css" />
         <option value="$PROJECT_DIR$/basics-assignment-3-start/src/app/app.component.html" />
       </list>
     </option>
@@ -285,7 +287,7 @@
       <option name="presentableId" value="Default" />
       <updated>1516207936747</updated>
       <workItem from="1516207938237" duration="10757000" />
-      <workItem from="1516625583563" duration="17928000" />
+      <workItem from="1516625583563" duration="18160000" />
     </task>
     <task id="LOCAL-00001" summary="first component s2l15">
       <created>1516219300514</created>
@@ -448,11 +450,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517139419698</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="39. basics-assignment-3-start">
+      <created>1517149674403</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1517149674403</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28685000" />
+    <option name="totallyTimeSpent" value="28917000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -833,10 +842,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/basics-assignment-3-start/src/app/app.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/basics-assignment-3-start/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="111" lean-forward="false" selection-start-line="18" selection-start-column="111" selection-end-line="18" selection-end-column="111" />
+        <state relative-caret-position="285">
+          <caret line="19" column="58" lean-forward="false" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
           <folding />
         </state>
       </provider>

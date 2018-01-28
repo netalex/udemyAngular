@@ -16,7 +16,9 @@
       <p>{{log.length}} click total<span *ngIf="log.length!==0">,last click @ {{log[log.length - 1]}}</span></p>
       <h6>click test:</h6>
       <p *ngFor="let logData of log"
-      [ngStyle]="{ backgroundColor : log.indexOf(logData)+1>=5?'blue':'transparent'}" >{{log.indexOf(logData)+1}}: @ {{logData}}</p>
+      [ngStyle]="{ backgroundColor : log.indexOf(logData)+1>=5?'blue':'transparent'}"
+      [ngClass]="log.indexOf(logData)+1>=5?'white-text':''"
+      >{{log.indexOf(logData)+1}}: @ {{logData}}</p>
     </div>
   </div>
 </div>
