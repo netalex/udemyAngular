@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c25304a-e1d0-4c1d-95ae-1971932ba655" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/recipeBook/src/app/header/header.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/recipeBook/src/app/header/header.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/recipeBook/src/app/header/header.component.ts" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/recipeBook/src/app/app.component.html" afterPath="$PROJECT_DIR$/recipeBook/src/app/app.component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/recipeBook/src/app/app.module.ts" afterPath="$PROJECT_DIR$/recipeBook/src/app/app.module.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -299,7 +294,7 @@
       <option name="presentableId" value="Default" />
       <updated>1516207936747</updated>
       <workItem from="1516207938237" duration="10757000" />
-      <workItem from="1516625583563" duration="24151000" />
+      <workItem from="1516625583563" duration="24200000" />
     </task>
     <task id="LOCAL-00001" summary="first component s2l15">
       <created>1516219300514</created>
@@ -518,11 +513,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517180659783</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="creating the Components">
+      <created>1517184317235</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1517184317236</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34908000" />
+    <option name="totallyTimeSpent" value="34957000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -613,7 +615,8 @@
     <MESSAGE value="39. basics-assignment-3-start" />
     <MESSAGE value="39. Getting the Index when using ngFor" />
     <MESSAGE value="42. Setting up the Application" />
-    <option name="LAST_COMMIT_MESSAGE" value="42. Setting up the Application" />
+    <MESSAGE value="creating the Components" />
+    <option name="LAST_COMMIT_MESSAGE" value="creating the Components" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
