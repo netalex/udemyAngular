@@ -65,8 +65,8 @@
       <file leaf-file-name="recipe-list.component.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/recipeBook/src/app/recipes/recipe-list/recipe-list.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="40" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+            <state relative-caret-position="255">
+              <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#div#0;n#div#1;n#!!top" expanded="true" />
               </folding>
@@ -337,7 +337,7 @@
       <option name="presentableId" value="Default" />
       <updated>1516207936747</updated>
       <workItem from="1516207938237" duration="10757000" />
-      <workItem from="1516625583563" duration="31008000" />
+      <workItem from="1516625583563" duration="31092000" />
     </task>
     <task id="LOCAL-00001" summary="first component s2l15">
       <created>1516219300514</created>
@@ -619,11 +619,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517590690510</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Sezione 3, lezione 49. Outputting a List of Recipes with ngFor">
+      <created>1517610959315</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1517610959315</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41765000" />
+    <option name="totallyTimeSpent" value="41849000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -693,7 +700,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="first component s2l18" />
     <MESSAGE value="first component s2l19" />
     <MESSAGE value="first component s2l20" />
     <MESSAGE value="basics-assignment-1" />
@@ -718,7 +724,8 @@
     <MESSAGE value="Sezione 3, lezione 45. Adding a Navigation Bar" />
     <MESSAGE value="Sezione 3, lezione 47. Creating a &quot;Recipe&quot; Model" />
     <MESSAGE value="Sezione 3, lezione 48. Adding Content to the Recipes Components" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sezione 3, lezione 48. Adding Content to the Recipes Components" />
+    <MESSAGE value="Sezione 3, lezione 49. Outputting a List of Recipes with ngFor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sezione 3, lezione 49. Outputting a List of Recipes with ngFor" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1146,8 +1153,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/recipeBook/src/app/recipes/recipe-list/recipe-list.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="40" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        <state relative-caret-position="255">
+          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
           <folding>
             <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#div#0;n#div#1;n#!!top" expanded="true" />
           </folding>
