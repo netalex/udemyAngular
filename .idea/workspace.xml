@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c25304a-e1d0-4c1d-95ae-1971932ba655" name="Default" comment="Sezione 3, lezione 51. Working on the ShoppingListComponent">
+    <list default="true" id="2c25304a-e1d0-4c1d-95ae-1971932ba655" name="Default" comment="Sezione 3, lezione 52. Creating an &quot;Ingredient&quot; Model">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/recipeBook/src/app/shared/ingredient.model.ts" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-list.component.html" afterPath="$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-list.component.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,16 +25,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
               <caret line="14" column="50" lean-forward="false" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recipeBook/src/app/app.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -115,7 +105,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shopping-list.component.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="shopping-list.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-list.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -123,6 +113,16 @@
               <folding>
                 <element signature="n#style#0;n#a#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ingredient.model.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/recipeBook/src/app/shared/ingredient.model.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="56" lean-forward="false" selection-start-line="1" selection-start-column="56" selection-end-line="1" selection-end-column="56" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -161,6 +161,7 @@
         <option value="$PROJECT_DIR$/recipeBook/src/app/recipes/recipe-list/recipe-list.component.html" />
         <option value="$PROJECT_DIR$/recipeBook/src/app/recipes/recipes.component.html" />
         <option value="$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-list.component.html" />
+        <option value="$PROJECT_DIR$/recipeBook/src/app/shared/ingredient.model.ts" />
       </list>
     </option>
   </component>
@@ -275,6 +276,14 @@
               <item name="recipeBook" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="shared" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="udemyAngular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemyAngular" type="462c0819:PsiDirectoryNode" />
+              <item name="recipeBook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="shopping-list" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -348,7 +357,7 @@
       <option name="presentableId" value="Default" />
       <updated>1516207936747</updated>
       <workItem from="1516207938237" duration="10757000" />
-      <workItem from="1516625583563" duration="32924000" />
+      <workItem from="1516625583563" duration="33210000" />
     </task>
     <task id="LOCAL-00001" summary="first component s2l15">
       <created>1516219300514</created>
@@ -651,11 +660,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517613602342</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Sezione 3, lezione 51. Working on the ShoppingListComponent">
+      <created>1517614653949</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1517614653949</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43681000" />
+    <option name="totallyTimeSpent" value="43967000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -725,7 +741,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="first component s2l20" />
     <MESSAGE value="basics-assignment-1" />
     <MESSAGE value="s2l23 string interpolation" />
     <MESSAGE value="s2l24. Property Binding" />
@@ -750,7 +765,8 @@
     <MESSAGE value="Sezione 3, lezione 48. Adding Content to the Recipes Components" />
     <MESSAGE value="Sezione 3, lezione 49. Outputting a List of Recipes with ngFor" />
     <MESSAGE value="Sezione 3, lezione 50. Displaying Recipe Details" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sezione 3, lezione 50. Displaying Recipe Details" />
+    <MESSAGE value="Sezione 3, lezione 51. Working on the ShoppingListComponent" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sezione 3, lezione 51. Working on the ShoppingListComponent" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -758,14 +774,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/first-app/src/app/servers/servers.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/first-app/src/app/servers/servers.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1183,6 +1191,14 @@
           <folding>
             <element signature="n#style#0;n#a#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipeBook/src/app/shared/ingredient.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="56" lean-forward="false" selection-start-line="1" selection-start-column="56" selection-end-line="1" selection-end-column="56" />
+          <folding />
         </state>
       </provider>
     </entry>
