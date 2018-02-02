@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2c25304a-e1d0-4c1d-95ae-1971932ba655" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/recipeBook/src/app/header/header.component.html" afterPath="$PROJECT_DIR$/recipeBook/src/app/header/header.component.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -334,7 +333,7 @@
       <option name="presentableId" value="Default" />
       <updated>1516207936747</updated>
       <workItem from="1516207938237" duration="10757000" />
-      <workItem from="1516625583563" duration="27308000" />
+      <workItem from="1516625583563" duration="27334000" />
     </task>
     <task id="LOCAL-00001" summary="first component s2l15">
       <created>1516219300514</created>
@@ -588,11 +587,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517569084569</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Sezione 3, lezione 45. Adding a Navigation Bar">
+      <created>1517580659931</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1517580659932</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38065000" />
+    <option name="totallyTimeSpent" value="38091000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -662,7 +668,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="first component s2l15" />
     <MESSAGE value="first component s2l16" />
     <MESSAGE value="first component s2l17" />
     <MESSAGE value="first component s2l18" />
@@ -687,7 +692,8 @@
     <MESSAGE value="creating the Components" />
     <MESSAGE value="Creating the Components&#10;Sezione 3, lezione 43" />
     <MESSAGE value="Using the Components&#10;Sezione 3, lezione 44" />
-    <option name="LAST_COMMIT_MESSAGE" value="Using the Components&#10;Sezione 3, lezione 44" />
+    <MESSAGE value="Sezione 3, lezione 45. Adding a Navigation Bar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sezione 3, lezione 45. Adding a Navigation Bar" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
