@@ -5,7 +5,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmp-databinding-start/src/app/app.component.html" afterPath="$PROJECT_DIR$/cmp-databinding-start/src/app/app.component.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmp-databinding-start/src/app/cockpit/cockpit.component.ts" afterPath="$PROJECT_DIR$/cmp-databinding-start/src/app/cockpit/cockpit.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmp-databinding-start/src/app/server-element/server-element.component.ts" afterPath="$PROJECT_DIR$/cmp-databinding-start/src/app/server-element/server-element.component.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -48,8 +47,8 @@
       <file leaf-file-name="cockpit.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cmp-databinding-start/src/app/cockpit/cockpit.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+            <state relative-caret-position="135">
+              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -59,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/cmp-databinding-start/src/app/app.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="40" lean-forward="true" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+              <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -148,9 +147,9 @@
         <option value="$PROJECT_DIR$/cmp-databinding-start/src/app/cockpit/cockpit.component.html" />
         <option value="$PROJECT_DIR$/cmp-databinding-start/src/app/server-element/server-element.component.html" />
         <option value="$PROJECT_DIR$/cmp-databinding-start/README.md" />
-        <option value="$PROJECT_DIR$/cmp-databinding-start/src/app/cockpit/cockpit.component.ts" />
         <option value="$PROJECT_DIR$/cmp-databinding-start/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/cmp-databinding-start/src/app/server-element/server-element.component.ts" />
+        <option value="$PROJECT_DIR$/cmp-databinding-start/src/app/cockpit/cockpit.component.ts" />
         <option value="$PROJECT_DIR$/cmp-databinding-start/src/app/app.component.html" />
       </list>
     </option>
@@ -382,14 +381,7 @@
       <option name="presentableId" value="Default" />
       <updated>1516207936747</updated>
       <workItem from="1516207938237" duration="10757000" />
-      <workItem from="1516625583563" duration="40506000" />
-    </task>
-    <task id="LOCAL-00009" summary="basics-assignment-1">
-      <created>1516278651594</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1516278651594</updated>
+      <workItem from="1516625583563" duration="40681000" />
     </task>
     <task id="LOCAL-00010" summary="s2l23 string interpolation">
       <created>1516279971616</created>
@@ -727,11 +719,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517672621762</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Sezione 5, lezione 64. Binding to Custom Events">
+      <created>1517673454775</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1517673454775</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51263000" />
+    <option name="totallyTimeSpent" value="51438000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1238,14 +1237,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cmp-databinding-start/src/app/cockpit/cockpit.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cmp-databinding-start/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -1262,10 +1253,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/cmp-databinding-start/src/app/cockpit/cockpit.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cmp-databinding-start/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="40" lean-forward="true" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
           <folding />
         </state>
       </provider>
