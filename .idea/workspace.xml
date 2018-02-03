@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c25304a-e1d0-4c1d-95ae-1971932ba655" name="Default" comment="">
+    <list default="true" id="2c25304a-e1d0-4c1d-95ae-1971932ba655" name="Default" comment="Sezione 5, lezione 68. More on View Encapsulation">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmp-databinding-start/src/app/app.component.css" afterPath="$PROJECT_DIR$/cmp-databinding-start/src/app/app.component.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmp-databinding-start/src/app/server-element/server-element.component.css" afterPath="$PROJECT_DIR$/cmp-databinding-start/src/app/server-element/server-element.component.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmp-databinding-start/src/app/server-element/server-element.component.ts" afterPath="$PROJECT_DIR$/cmp-databinding-start/src/app/server-element/server-element.component.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -74,7 +73,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="server-element.component.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="server-element.component.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cmp-databinding-start/src/app/server-element/server-element.component.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -94,11 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="server-element.component.ts" pinned="false" current-in-tab="false">
+      <file leaf-file-name="server-element.component.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cmp-databinding-start/src/app/server-element/server-element.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+            <state relative-caret-position="0">
+              <caret line="0" column="52" lean-forward="false" selection-start-line="0" selection-start-column="52" selection-end-line="0" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -168,11 +167,11 @@
         <option value="$PROJECT_DIR$/cmp-databinding-start/src/app/server-element/server-element.component.html" />
         <option value="$PROJECT_DIR$/cmp-databinding-start/README.md" />
         <option value="$PROJECT_DIR$/cmp-databinding-start/src/app/app.component.ts" />
-        <option value="$PROJECT_DIR$/cmp-databinding-start/src/app/server-element/server-element.component.ts" />
         <option value="$PROJECT_DIR$/cmp-databinding-start/src/app/cockpit/cockpit.component.ts" />
         <option value="$PROJECT_DIR$/cmp-databinding-start/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/cmp-databinding-start/src/app/app.component.css" />
         <option value="$PROJECT_DIR$/cmp-databinding-start/src/app/server-element/server-element.component.css" />
+        <option value="$PROJECT_DIR$/cmp-databinding-start/src/app/server-element/server-element.component.ts" />
       </list>
     </option>
   </component>
@@ -403,14 +402,7 @@
       <option name="presentableId" value="Default" />
       <updated>1516207936747</updated>
       <workItem from="1516207938237" duration="10757000" />
-      <workItem from="1516625583563" duration="40903000" />
-    </task>
-    <task id="LOCAL-00011" summary="s2l24. Property Binding">
-      <created>1516282220514</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1516282220514</updated>
+      <workItem from="1516625583563" duration="41176000" />
     </task>
     <task id="LOCAL-00012" summary="s2l25. Property Binding vs String Interpolation">
       <created>1516282777203</created>
@@ -748,11 +740,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517673634439</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Sezione 5, lezione 67. Understanding View Encapsulation">
+      <created>1517677286283</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1517677286283</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51660000" />
+    <option name="totallyTimeSpent" value="51933000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -822,7 +821,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ng template" />
     <MESSAGE value="35. Enhancing ngIf with an Else Condition" />
     <MESSAGE value="Sezione 2: completata per 29/30&#10;Appena completato:&#10;36. Styling Elements Dynamically with ngStyle" />
     <MESSAGE value="37. Applying CSS Classes Dynamically with ngClass" />
@@ -847,7 +845,8 @@
     <MESSAGE value="Sezione 5, lezione 63. Assigning an Alias to Custom Properties" />
     <MESSAGE value="Sezione 5, lezione 64. Binding to Custom Events" />
     <MESSAGE value="Sezione 5, lezione 65. Assigning an Alias to Custom Events" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sezione 5, lezione 65. Assigning an Alias to Custom Events" />
+    <MESSAGE value="Sezione 5, lezione 67. Understanding View Encapsulation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sezione 5, lezione 67. Understanding View Encapsulation" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1251,14 +1250,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cmp-databinding-start/src/app/server-element/server-element.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cmp-databinding-start/src/app/cockpit/cockpit.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1287,6 +1278,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmp-databinding-start/src/app/server-element/server-element.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="52" lean-forward="false" selection-start-line="0" selection-start-column="52" selection-end-line="0" selection-end-column="52" />
           <folding />
         </state>
       </provider>
