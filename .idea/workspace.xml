@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2c25304a-e1d0-4c1d-95ae-1971932ba655" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-list.component.html" afterPath="$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-list.component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-list.component.ts" afterPath="$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-list.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-edit/shopping-edit.component.html" afterPath="$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-edit/shopping-edit.component.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -76,7 +75,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shopping-list.component.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="shopping-list.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-list.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -106,11 +105,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shopping-edit.component.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="shopping-edit.component.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-edit/shopping-edit.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="480">
+              <caret line="32" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -160,10 +159,10 @@
         <option value="$PROJECT_DIR$/recipeBook/src/app/recipes/recipe-list/recipe-list.component.html" />
         <option value="$PROJECT_DIR$/recipeBook/src/app/recipes/recipes.component.html" />
         <option value="$PROJECT_DIR$/recipeBook/src/app/shared/ingredient.model.ts" />
-        <option value="$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-edit/shopping-edit.component.html" />
         <option value="$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" />
         <option value="$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-list.component.ts" />
         <option value="$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-list.component.html" />
+        <option value="$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-edit/shopping-edit.component.html" />
       </list>
     </option>
   </component>
@@ -359,7 +358,7 @@
       <option name="presentableId" value="Default" />
       <updated>1516207936747</updated>
       <workItem from="1516207938237" duration="10757000" />
-      <workItem from="1516625583563" duration="34318000" />
+      <workItem from="1516625583563" duration="35106000" />
     </task>
     <task id="LOCAL-00001" summary="first component s2l15">
       <created>1516219300514</created>
@@ -683,11 +682,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517617757465</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Sezione 3, lezione 53. Creating and Outputting the Shopping List">
+      <created>1517619827501</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1517619827501</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45075000" />
+    <option name="totallyTimeSpent" value="45863000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1181,14 +1187,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-edit/shopping-edit.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-edit/shopping-edit.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -1209,6 +1207,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-edit/shopping-edit.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
       </provider>
