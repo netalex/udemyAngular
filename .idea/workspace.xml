@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2c25304a-e1d0-4c1d-95ae-1971932ba655" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmp-databinding-start/src/app/cockpit/cockpit.component.html" afterPath="$PROJECT_DIR$/cmp-databinding-start/src/app/cockpit/cockpit.component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmp-databinding-start/src/app/cockpit/cockpit.component.ts" afterPath="$PROJECT_DIR$/cmp-databinding-start/src/app/cockpit/cockpit.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmp-databinding-start/src/app/server-element/server-element.component.ts" afterPath="$PROJECT_DIR$/cmp-databinding-start/src/app/server-element/server-element.component.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -404,14 +401,7 @@
       <option name="presentableId" value="Default" />
       <updated>1516207936747</updated>
       <workItem from="1516207938237" duration="10757000" />
-      <workItem from="1516625583563" duration="42189000" />
-    </task>
-    <task id="LOCAL-00013" summary="s2l29.">
-      <created>1516748763829</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1516748763829</updated>
+      <workItem from="1516625583563" duration="42209000" />
     </task>
     <task id="LOCAL-00014" summary="s2l32.">
       <created>1516969167025</created>
@@ -749,11 +739,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517677776070</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Sezione 5, lezione 69. Using Local References in Templates">
+      <created>1517680248559</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1517680248559</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52946000" />
+    <option name="totallyTimeSpent" value="52966000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -823,7 +820,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Sezione 2: completata per 29/30&#10;Appena completato:&#10;36. Styling Elements Dynamically with ngStyle" />
     <MESSAGE value="37. Applying CSS Classes Dynamically with ngClass" />
     <MESSAGE value="38. Outputting Lists with ngFor" />
     <MESSAGE value="39. basics-assignment-3-start" />
@@ -848,7 +844,8 @@
     <MESSAGE value="Sezione 5, lezione 65. Assigning an Alias to Custom Events" />
     <MESSAGE value="Sezione 5, lezione 67. Understanding View Encapsulation" />
     <MESSAGE value="Sezione 5, lezione 68. More on View Encapsulation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sezione 5, lezione 68. More on View Encapsulation" />
+    <MESSAGE value="Sezione 5, lezione 69. Using Local References in Templates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sezione 5, lezione 69. Using Local References in Templates" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
