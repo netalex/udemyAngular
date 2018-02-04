@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c25304a-e1d0-4c1d-95ae-1971932ba655" name="Default" comment="sezione 3 lezione 74. Lifecycle Hooks and Template Access">
+    <list default="true" id="2c25304a-e1d0-4c1d-95ae-1971932ba655" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmp-databinding-start/src/app/server-element/server-element.component.html" afterPath="$PROJECT_DIR$/cmp-databinding-start/src/app/server-element/server-element.component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmp-databinding-start/src/app/server-element/server-element.component.ts" afterPath="$PROJECT_DIR$/cmp-databinding-start/src/app/server-element/server-element.component.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -408,14 +406,7 @@
       <option name="presentableId" value="Default" />
       <updated>1516207936747</updated>
       <workItem from="1516207938237" duration="10757000" />
-      <workItem from="1516625583563" duration="49018000" />
-    </task>
-    <task id="LOCAL-00020" summary="37. Applying CSS Classes Dynamically with ngClass">
-      <created>1516981346810</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1516981346810</updated>
+      <workItem from="1516625583563" duration="49040000" />
     </task>
     <task id="LOCAL-00021" summary="38. Outputting Lists with ngFor">
       <created>1516991609589</created>
@@ -753,11 +744,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517770366125</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="sezione 3 lezione 74. Lifecycle Hooks and Template Access">
+      <created>1517771450452</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1517771450452</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59775000" />
+    <option name="totallyTimeSpent" value="59797000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -846,7 +844,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="creating the Components" />
     <MESSAGE value="Creating the Components&#10;Sezione 3, lezione 43" />
     <MESSAGE value="Using the Components&#10;Sezione 3, lezione 44" />
     <MESSAGE value="Sezione 3, lezione 45. Adding a Navigation Bar" />
@@ -871,7 +868,8 @@
     <MESSAGE value="sezione 3 lezine 70. Getting Access to the Template &amp; DOM with @ViewChild" />
     <MESSAGE value="sezione 3 lezine 71. Projecting Content into Components with ng-content" />
     <MESSAGE value="sezione 3 lezine 73. Seeing Lifecycle Hooks in Action" />
-    <option name="LAST_COMMIT_MESSAGE" value="sezione 3 lezine 73. Seeing Lifecycle Hooks in Action" />
+    <MESSAGE value="sezione 3 lezione 74. Lifecycle Hooks and Template Access" />
+    <option name="LAST_COMMIT_MESSAGE" value="sezione 3 lezione 74. Lifecycle Hooks and Template Access" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
