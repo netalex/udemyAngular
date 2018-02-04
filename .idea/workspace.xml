@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2c25304a-e1d0-4c1d-95ae-1971932ba655" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmp-databinding-start/src/app/server-element/server-element.component.ts" afterPath="$PROJECT_DIR$/cmp-databinding-start/src/app/server-element/server-element.component.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -402,14 +401,7 @@
       <option name="presentableId" value="Default" />
       <updated>1516207936747</updated>
       <workItem from="1516207938237" duration="10757000" />
-      <workItem from="1516625583563" duration="42341000" />
-    </task>
-    <task id="LOCAL-00015" summary="s2l39. esercizio">
-      <created>1516971929599</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1516971929599</updated>
+      <workItem from="1516625583563" duration="43137000" />
     </task>
     <task id="LOCAL-00016" summary="s2l34. 4. Using ngIf to Output Data Conditionally">
       <created>1516974292916</created>
@@ -747,11 +739,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517680259290</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="errore corretto https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/questions/3626972?utm_campaign=email&amp;utm_source=sendgrid.com&amp;utm_medium=email">
+      <created>1517681017171</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1517681017171</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53098000" />
+    <option name="totallyTimeSpent" value="53894000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -821,7 +820,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="37. Applying CSS Classes Dynamically with ngClass" />
     <MESSAGE value="38. Outputting Lists with ngFor" />
     <MESSAGE value="39. basics-assignment-3-start" />
     <MESSAGE value="39. Getting the Index when using ngFor" />
@@ -846,7 +844,8 @@
     <MESSAGE value="Sezione 5, lezione 67. Understanding View Encapsulation" />
     <MESSAGE value="Sezione 5, lezione 68. More on View Encapsulation" />
     <MESSAGE value="Sezione 5, lezione 69. Using Local References in Templates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sezione 5, lezione 69. Using Local References in Templates" />
+    <MESSAGE value="errore corretto https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/questions/3626972?utm_campaign=email&amp;utm_source=sendgrid.com&amp;utm_medium=email" />
+    <option name="LAST_COMMIT_MESSAGE" value="errore corretto https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/questions/3626972?utm_campaign=email&amp;utm_source=sendgrid.com&amp;utm_medium=email" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
