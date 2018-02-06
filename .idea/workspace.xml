@@ -1,14 +1,174 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c25304a-e1d0-4c1d-95ae-1971932ba655" name="Default" comment="">
+    <list default="true" id="2c25304a-e1d0-4c1d-95ae-1971932ba655" name="Default" comment="sezione 4 lezione 78. Adding Navigation with Event Binding and ngIf">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/assets/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/src/assets/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/src/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/src/assets/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/src/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/assets/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/.angular-cli.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/e2e/app.e2e-spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/e2e/app.po.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/e2e/tsconfig.e2e.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/how-to-use.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/protractor.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/app.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/app.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/app.component.spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/app.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/app.module.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/even/even.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/even/even.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/even/even.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/game-control/game-control.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/game-control/game-control.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/game-control/game-control.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/odd/odd.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/odd/odd.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/odd/odd.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/environments/environment.prod.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/environments/environment.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/main.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/polyfills.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/test.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/tsconfig.app.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/tsconfig.spec.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/typings.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/tsconfig.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/tslint.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/.angular-cli.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/e2e/app.e2e-spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/e2e/app.po.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/e2e/tsconfig.e2e.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/how-to-use.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/protractor.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/src/app/app.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/src/app/app.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/src/app/app.component.spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/src/app/app.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/src/app/app.module.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/src/app/even/even.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/src/app/even/even.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/src/app/even/even.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/src/app/game-control/game-control.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/src/app/game-control/game-control.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/src/app/game-control/game-control.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/src/app/odd/odd.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/src/app/odd/odd.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/src/app/odd/odd.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/src/environments/environment.prod.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/src/environments/environment.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/src/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/src/main.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/src/polyfills.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/src/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/src/test.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/src/tsconfig.app.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/src/tsconfig.spec.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/src/typings.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/tsconfig.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-assignment-start/tslint.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/.angular-cli.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/e2e/app.e2e-spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/e2e/app.po.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/e2e/tsconfig.e2e.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/how-to-use.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/protractor.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/src/app/app.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/src/app/app.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/src/app/app.component.spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/src/app/app.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/src/app/app.module.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/src/app/cockpit/cockpit.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/src/app/cockpit/cockpit.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/src/app/cockpit/cockpit.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/src/app/server-element/server-element.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/src/app/server-element/server-element.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/src/app/server-element/server-element.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/src/environments/environment.prod.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/src/environments/environment.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/src/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/src/main.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/src/polyfills.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/src/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/src/test.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/src/tsconfig.app.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/src/tsconfig.spec.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/src/typings.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/tsconfig.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmp-databinding-final/tslint.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/.angular-cli.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/e2e/app.e2e-spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/e2e/app.po.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/e2e/tsconfig.e2e.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/how-to-use.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/protractor.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/app/app.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/app/app.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/app/app.component.spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/app/app.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/app/app.module.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/app/header/header.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/app/header/header.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/app/recipes/recipe-detail/recipe-detail.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/app/recipes/recipe-detail/recipe-detail.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/app/recipes/recipe-detail/recipe-detail.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/app/recipes/recipe-list/recipe-item/recipe-item.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/app/recipes/recipe-list/recipe-list.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/app/recipes/recipe-list/recipe-list.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/app/recipes/recipe-list/recipe-list.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/app/recipes/recipe.model.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/app/recipes/recipes.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/app/recipes/recipes.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/app/recipes/recipes.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/app/shared/ingredient.model.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/app/shopping-list/shopping-edit/shopping-edit.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/app/shopping-list/shopping-edit/shopping-edit.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/app/shopping-list/shopping-list.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/app/shopping-list/shopping-list.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/app/shopping-list/shopping-list.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/environments/environment.prod.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/environments/environment.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/main.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/polyfills.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/test.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/tsconfig.app.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/tsconfig.spec.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/src/typings.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/tsconfig.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-basics-final/tslint.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmp-databinding-start/src/app/app.component.html" afterPath="$PROJECT_DIR$/cmp-databinding-start/src/app/app.component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmp-databinding-start/src/app/server-element/server-element.component.ts" afterPath="$PROJECT_DIR$/cmp-databinding-start/src/app/server-element/server-element.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/recipeBook/src/app/app.component.html" afterPath="$PROJECT_DIR$/recipeBook/src/app/app.component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/recipeBook/src/app/app.component.ts" afterPath="$PROJECT_DIR$/recipeBook/src/app/app.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/recipeBook/src/app/header/header.component.html" afterPath="$PROJECT_DIR$/recipeBook/src/app/header/header.component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/recipeBook/src/app/header/header.component.ts" afterPath="$PROJECT_DIR$/recipeBook/src/app/header/header.component.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -382,14 +542,7 @@
       <option name="presentableId" value="Default" />
       <updated>1516207936747</updated>
       <workItem from="1516207938237" duration="10757000" />
-      <workItem from="1516625583563" duration="61266000" />
-    </task>
-    <task id="LOCAL-00025" summary="39. basics-assignment-3-start">
-      <created>1517149904147</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1517149904148</updated>
+      <workItem from="1516625583563" duration="61399000" />
     </task>
     <task id="LOCAL-00026" summary="39. basics-assignment-3-start">
       <created>1517150265647</created>
@@ -727,11 +880,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517943120412</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="sezione 4 lezione 78. Adding Navigation with Event Binding and ngIf">
+      <created>1517948472355</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1517948472355</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72023000" />
+    <option name="totallyTimeSpent" value="72156000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -800,7 +960,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Sezione 3, lezione 45. Adding a Navigation Bar" />
     <MESSAGE value="Sezione 3, lezione 47. Creating a &quot;Recipe&quot; Model" />
     <MESSAGE value="Sezione 3, lezione 48. Adding Content to the Recipes Components" />
     <MESSAGE value="Sezione 3, lezione 49. Outputting a List of Recipes with ngFor" />
@@ -825,7 +984,8 @@
     <MESSAGE value="sezione 3 lezione 74. Lifecycle Hooks and Template Access" />
     <MESSAGE value="sezione 3 lezione 75. Getting Access to ng-content with @ContentChild" />
     <MESSAGE value="ssegnazione 4: Practicing Property &amp; Event Binding and View Encapsulation" />
-    <option name="LAST_COMMIT_MESSAGE" value="ssegnazione 4: Practicing Property &amp; Event Binding and View Encapsulation" />
+    <MESSAGE value="sezione 4 lezione 78. Adding Navigation with Event Binding and ngIf" />
+    <option name="LAST_COMMIT_MESSAGE" value="sezione 4 lezione 78. Adding Navigation with Event Binding and ngIf" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
