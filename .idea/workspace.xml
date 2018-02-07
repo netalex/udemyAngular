@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c25304a-e1d0-4c1d-95ae-1971932ba655" name="Default" comment="">
+    <list default="true" id="2c25304a-e1d0-4c1d-95ae-1971932ba655" name="Default" comment="Sezione 7, lezione 88. Using HostListener to Listen to Host Events.">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/directives-start/src/app/app.component.html" afterPath="$PROJECT_DIR$/directives-start/src/app/app.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/directives-start/src/app/better-highlight/better-highlight.directive.ts" afterPath="$PROJECT_DIR$/directives-start/src/app/better-highlight/better-highlight.directive.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -76,7 +76,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/directives-start/src/app/app.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
@@ -86,11 +86,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="better-highlight.directive.ts" pinned="false" current-in-tab="false">
+      <file leaf-file-name="better-highlight.directive.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/directives-start/src/app/better-highlight/better-highlight.directive.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="81" lean-forward="false" selection-start-line="9" selection-start-column="81" selection-end-line="9" selection-end-column="81" />
+            <state relative-caret-position="285">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -185,8 +185,8 @@
         <option value="$PROJECT_DIR$/directives-start/src/app/app.component.css" />
         <option value="$PROJECT_DIR$/directives-start/src/app/basic-highlight/basic-highlight.directive.ts" />
         <option value="$PROJECT_DIR$/directives-start/src/app/app.module.ts" />
-        <option value="$PROJECT_DIR$/directives-start/src/app/better-highlight/better-highlight.directive.ts" />
         <option value="$PROJECT_DIR$/directives-start/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/directives-start/src/app/better-highlight/better-highlight.directive.ts" />
       </list>
     </option>
   </component>
@@ -314,14 +314,7 @@
       <option name="presentableId" value="Default" />
       <updated>1516207936747</updated>
       <workItem from="1516207938237" duration="10757000" />
-      <workItem from="1516625583563" duration="71904000" />
-    </task>
-    <task id="LOCAL-00038" summary="Sezione 3, lezione 45. Adding a Navigation Bar">
-      <created>1517580672696</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1517580672696</updated>
+      <workItem from="1516625583563" duration="72455000" />
     </task>
     <task id="LOCAL-00039" summary="Sezione 3, lezione 47. Creating a &quot;Recipe&quot; Model">
       <created>1517586115587</created>
@@ -659,11 +652,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518014115421</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="Sezione 7, lezione 86. Using the Renderer to build a Better Attribute Directive">
+      <created>1518015065738</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1518015065738</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82661000" />
+    <option name="totallyTimeSpent" value="83212000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1156,14 +1156,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/directives-start/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/directives-start/src/app/app.component.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1190,18 +1182,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/directives-start/src/app/better-highlight/better-highlight.directive.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="81" lean-forward="false" selection-start-line="9" selection-start-column="81" selection-end-line="9" selection-end-column="81" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/directives-start/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="27" lean-forward="false" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/directives-start/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/directives-start/src/app/better-highlight/better-highlight.directive.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
