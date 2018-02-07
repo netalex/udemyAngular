@@ -2,63 +2,89 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c25304a-e1d0-4c1d-95ae-1971932ba655" name="Default" comment="sezione 4 lezione 81. Allowing the User to Add Ingredients to the Shopping List">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/assets/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/.angular-cli.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/e2e/app.e2e-spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/e2e/app.po.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/e2e/tsconfig.e2e.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/how-to-use.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/karma.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/protractor.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/app/app.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/app/app.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/app/app.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/app/app.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/app/app.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/app/header/header.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/app/header/header.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/app/recipes/recipe-detail/recipe-detail.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/app/recipes/recipe-detail/recipe-detail.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/app/recipes/recipe-detail/recipe-detail.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/app/recipes/recipe-list/recipe-item/recipe-item.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/app/recipes/recipe-list/recipe-list.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/app/recipes/recipe-list/recipe-list.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/app/recipes/recipe-list/recipe-list.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/app/recipes/recipe.model.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/app/recipes/recipes.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/app/recipes/recipes.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/app/recipes/recipes.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/app/shared/ingredient.model.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/app/shopping-list/shopping-edit/shopping-edit.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/app/shopping-list/shopping-edit/shopping-edit.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/app/shopping-list/shopping-list.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/app/shopping-list/shopping-list.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/app/shopping-list/shopping-list.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/environments/environment.prod.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/environments/environment.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/main.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/polyfills.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/test.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/tsconfig.app.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/tsconfig.spec.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/src/typings.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/tsconfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final/tslint.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/directives-start/src/assets/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/directives-start/src/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/assets/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/directives-start/.angular-cli.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/directives-start/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/directives-start/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/directives-start/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/directives-start/e2e/app.e2e-spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/directives-start/e2e/app.po.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/directives-start/e2e/tsconfig.e2e.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/directives-start/how-to-use.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/directives-start/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/directives-start/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/directives-start/protractor.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/directives-start/src/app/app.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/directives-start/src/app/app.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/directives-start/src/app/app.component.spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/directives-start/src/app/app.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/directives-start/src/app/app.module.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/directives-start/src/environments/environment.prod.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/directives-start/src/environments/environment.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/directives-start/src/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/directives-start/src/main.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/directives-start/src/polyfills.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/directives-start/src/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/directives-start/src/test.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/directives-start/src/tsconfig.app.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/directives-start/src/tsconfig.spec.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/directives-start/src/typings.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/directives-start/tsconfig.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/directives-start/tslint.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/.angular-cli.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/e2e/app.e2e-spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/e2e/app.po.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/e2e/tsconfig.e2e.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/how-to-use.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/protractor.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/app/app.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/app/app.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/app/app.component.spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/app/app.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/app/app.module.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/app/header/header.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/app/header/header.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/app/recipes/recipe-detail/recipe-detail.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/app/recipes/recipe-detail/recipe-detail.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/app/recipes/recipe-detail/recipe-detail.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/app/recipes/recipe-list/recipe-item/recipe-item.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/app/recipes/recipe-list/recipe-list.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/app/recipes/recipe-list/recipe-list.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/app/recipes/recipe-list/recipe-list.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/app/recipes/recipe.model.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/app/recipes/recipes.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/app/recipes/recipes.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/app/recipes/recipes.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/app/shared/ingredient.model.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/app/shopping-list/shopping-edit/shopping-edit.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/app/shopping-list/shopping-edit/shopping-edit.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/app/shopping-list/shopping-list.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/app/shopping-list/shopping-list.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/app/shopping-list/shopping-list.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/environments/environment.prod.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/environments/environment.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/main.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/polyfills.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/test.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/tsconfig.app.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/tsconfig.spec.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/src/typings.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/tsconfig.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prj-cmp-databinding-final-1/tslint.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-edit/shopping-edit.component.html" afterPath="$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-edit/shopping-edit.component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" afterPath="$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-list.component.html" afterPath="$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-list.component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-list.component.ts" afterPath="$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-list.component.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -117,7 +143,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shopping-list.component.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="shopping-list.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-list.component.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
@@ -129,48 +155,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shopping-edit.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-edit/shopping-edit.component.html">
+      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/directives-start/src/app/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="65" lean-forward="true" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="76" />
+            <state relative-caret-position="300">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/directives-start/src/app/app.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="recipe-detail.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recipeBook/src/app/recipes/recipe-detail/recipe-detail.component.ts">
+      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/directives-start/src/app/app.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#55#0" expanded="true" />
-              </folding>
+              <caret line="9" column="73" lean-forward="false" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="recipes.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recipeBook/src/app/recipes/recipes.component.ts">
+      <file leaf-file-name="shopping-edit.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-edit/shopping-edit.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#50#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="recipe-detail.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recipeBook/src/app/recipes/recipe-detail/recipe-detail.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="134" lean-forward="false" selection-start-line="1" selection-start-column="134" selection-end-line="1" selection-end-column="134" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="360">
+              <caret line="24" column="65" lean-forward="false" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="76" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -193,7 +215,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/first-app/src/app/warning-alert/warning-alert.component.html" />
         <option value="$PROJECT_DIR$/first-app/src/app/success-alert/success-alert.component.css" />
         <option value="$PROJECT_DIR$/first-app/src/app/warning-alert/warning-alert.component.css" />
         <option value="$PROJECT_DIR$/first-app/src/app/app.module.ts" />
@@ -244,6 +265,7 @@
         <option value="$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" />
         <option value="$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-list.component.html" />
         <option value="$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-list.component.ts" />
+        <option value="$PROJECT_DIR$/directives-start/src/app/app.component.html" />
       </list>
     </option>
   </component>
@@ -257,6 +279,7 @@
     <handled-path value="$PROJECT_DIR$/cmp-databinding-assignment-start/node_modules" />
     <handled-path value="$PROJECT_DIR$/cmp-databinding-final/node_modules" />
     <handled-path value="$PROJECT_DIR$/cmp-databinding-start/node_modules" />
+    <handled-path value="$PROJECT_DIR$/directives-start/node_modules" />
     <handled-path value="$PROJECT_DIR$/first-app/node_modules" />
     <handled-path value="$PROJECT_DIR$/prj-basics-final/node_modules" />
     <handled-path value="$PROJECT_DIR$/recipeBook/node_modules" />
@@ -293,75 +316,20 @@
             <path>
               <item name="udemyAngular" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemyAngular" type="462c0819:PsiDirectoryNode" />
-              <item name="recipeBook" type="462c0819:PsiDirectoryNode" />
+              <item name="directives-start" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="udemyAngular" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemyAngular" type="462c0819:PsiDirectoryNode" />
-              <item name="recipeBook" type="462c0819:PsiDirectoryNode" />
+              <item name="directives-start" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="udemyAngular" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemyAngular" type="462c0819:PsiDirectoryNode" />
-              <item name="recipeBook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemyAngular" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemyAngular" type="462c0819:PsiDirectoryNode" />
-              <item name="recipeBook" type="462c0819:PsiDirectoryNode" />
+              <item name="directives-start" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="header" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemyAngular" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemyAngular" type="462c0819:PsiDirectoryNode" />
-              <item name="recipeBook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="recipes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemyAngular" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemyAngular" type="462c0819:PsiDirectoryNode" />
-              <item name="recipeBook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="shared" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemyAngular" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemyAngular" type="462c0819:PsiDirectoryNode" />
-              <item name="recipeBook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="shopping-list" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemyAngular" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemyAngular" type="462c0819:PsiDirectoryNode" />
-              <item name="recipeBook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="shopping-list" type="462c0819:PsiDirectoryNode" />
-              <item name="shopping-edit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemyAngular" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemyAngular" type="462c0819:PsiDirectoryNode" />
-              <item name="recipeBook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemyAngular" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemyAngular" type="462c0819:PsiDirectoryNode" />
-              <item name="recipeBook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="environments" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -414,14 +382,7 @@
       <option name="presentableId" value="Default" />
       <updated>1516207936747</updated>
       <workItem from="1516207938237" duration="10757000" />
-      <workItem from="1516625583563" duration="67002000" />
-    </task>
-    <task id="LOCAL-00030" summary="42. Setting up the Application">
-      <created>1517180605390</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1517180605390</updated>
+      <workItem from="1516625583563" duration="68192000" />
     </task>
     <task id="LOCAL-00031" summary="42. Setting up the Application">
       <created>1517180659783</created>
@@ -759,11 +720,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518001991413</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="sezione 4 lezione 81. Allowing the User to Add Ingredients to the Shopping List">
+      <created>1518003392016</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1518003392017</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77759000" />
+    <option name="totallyTimeSpent" value="78949000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -785,7 +753,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24062878" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39903265" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.50423217" order="2" side_tool="true" content_ui="tabs" />
@@ -832,7 +800,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Sezione 3, lezione 49. Outputting a List of Recipes with ngFor" />
     <MESSAGE value="Sezione 3, lezione 50. Displaying Recipe Details" />
     <MESSAGE value="Sezione 3, lezione 51. Working on the ShoppingListComponent" />
     <MESSAGE value="Sezione 3, lezione 52. Creating an &quot;Ingredient&quot; Model" />
@@ -857,7 +824,8 @@
     <MESSAGE value="sezione 4 lezione 78. Adding Navigation with Event Binding and ngIf" />
     <MESSAGE value="sezione 4 lezione 79. Passing Recipe Data with Property Binding." />
     <MESSAGE value="sezione 4 lezione 80. Passing Data with Event and Property Binding (Combined)" />
-    <option name="LAST_COMMIT_MESSAGE" value="sezione 4 lezione 80. Passing Data with Event and Property Binding (Combined)" />
+    <MESSAGE value="sezione 4 lezione 81. Allowing the User to Add Ingredients to the Shopping List" />
+    <option name="LAST_COMMIT_MESSAGE" value="sezione 4 lezione 81. Allowing the User to Add Ingredients to the Shopping List" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -865,29 +833,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/recipeBook/src/main.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#47#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipeBook/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipeBook/src/favicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/recipeBook/src/environments/environment.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1220,7 +1165,7 @@
         <state relative-caret-position="135">
           <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
           <folding>
-            <element signature="e#0#50#0" expanded="true" />
+            <element signature="e#0#50#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1240,7 +1185,7 @@
         <state relative-caret-position="15">
           <caret line="1" column="134" lean-forward="false" selection-start-line="1" selection-start-column="134" selection-end-line="1" selection-end-column="134" />
           <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1272,7 +1217,7 @@
     <entry file="file://$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-edit/shopping-edit.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="24" column="65" lean-forward="true" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="76" />
+          <caret line="24" column="65" lean-forward="false" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="76" />
           <folding />
         </state>
       </provider>
@@ -1302,6 +1247,32 @@
           <folding>
             <element signature="e#0#50#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/directives-start/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/directives-start/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/directives-start/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="73" lean-forward="false" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
+          <folding />
         </state>
       </provider>
     </entry>
