@@ -313,14 +313,7 @@
       <option name="presentableId" value="Default" />
       <updated>1516207936747</updated>
       <workItem from="1516207938237" duration="10757000" />
-      <workItem from="1516625583563" duration="77012000" />
-    </task>
-    <task id="LOCAL-00044" summary="Sezione 3, lezione 51. Working on the ShoppingListComponent">
-      <created>1517614653949</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1517614653949</updated>
+      <workItem from="1516625583563" duration="77044000" />
     </task>
     <task id="LOCAL-00045" summary="Sezione 3, lezione 52. Creating an &quot;Ingredient&quot; Model">
       <created>1517614978916</created>
@@ -658,11 +651,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518094908809</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="Sezione 7, lezione 93. Understanding ngSwitch.">
+      <created>1518095611668</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1518095611668</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87769000" />
+    <option name="totallyTimeSpent" value="87801000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -731,7 +731,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Sezione 5, lezione 63. Assigning an Alias to Custom Properties" />
     <MESSAGE value="Sezione 5, lezione 64. Binding to Custom Events" />
     <MESSAGE value="Sezione 5, lezione 65. Assigning an Alias to Custom Events" />
     <MESSAGE value="Sezione 5, lezione 67. Understanding View Encapsulation" />
@@ -756,7 +755,8 @@
     <MESSAGE value="Sezione 7, lezione 88. Using HostListener to Listen to Host Events." />
     <MESSAGE value="Sezione 7, lezione 89. Using HostBinding to Bind to Host Properties" />
     <MESSAGE value="Sezione 7, lezione 92. Building a Structural Directive." />
-    <option name="LAST_COMMIT_MESSAGE" value="Sezione 7, lezione 92. Building a Structural Directive." />
+    <MESSAGE value="Sezione 7, lezione 93. Understanding ngSwitch." />
+    <option name="LAST_COMMIT_MESSAGE" value="Sezione 7, lezione 93. Understanding ngSwitch." />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
