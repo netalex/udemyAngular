@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c25304a-e1d0-4c1d-95ae-1971932ba655" name="Default" comment="Sezione 7, lezione 92. Building a Structural Directive.">
+    <list default="true" id="2c25304a-e1d0-4c1d-95ae-1971932ba655" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/directives-start/src/app/app.component.html" afterPath="$PROJECT_DIR$/directives-start/src/app/app.component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/directives-start/src/app/app.module.ts" afterPath="$PROJECT_DIR$/directives-start/src/app/app.module.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -313,14 +311,7 @@
       <option name="presentableId" value="Default" />
       <updated>1516207936747</updated>
       <workItem from="1516207938237" duration="10757000" />
-      <workItem from="1516625583563" duration="76446000" />
-    </task>
-    <task id="LOCAL-00042" summary="Sezione 3, lezione 49. Outputting a List of Recipes with ngFor">
-      <created>1517611027652</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1517611027652</updated>
+      <workItem from="1516625583563" duration="76480000" />
     </task>
     <task id="LOCAL-00043" summary="Sezione 3, lezione 50. Displaying Recipe Details">
       <created>1517613602342</created>
@@ -658,11 +649,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518035475460</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="Sezione 7, lezione 92. Building a Structural Directive.">
+      <created>1518094876881</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1518094876882</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87203000" />
+    <option name="totallyTimeSpent" value="87237000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -731,7 +729,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Sezione 5, lezione 62. Binding to Custom Properties" />
     <MESSAGE value="Sezione 5, lezione 63. Assigning an Alias to Custom Properties" />
     <MESSAGE value="Sezione 5, lezione 64. Binding to Custom Events" />
     <MESSAGE value="Sezione 5, lezione 65. Assigning an Alias to Custom Events" />
@@ -756,7 +753,8 @@
     <MESSAGE value="Sezione 7, lezione 86. Using the Renderer to build a Better Attribute Directive" />
     <MESSAGE value="Sezione 7, lezione 88. Using HostListener to Listen to Host Events." />
     <MESSAGE value="Sezione 7, lezione 89. Using HostBinding to Bind to Host Properties" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sezione 7, lezione 89. Using HostBinding to Bind to Host Properties" />
+    <MESSAGE value="Sezione 7, lezione 92. Building a Structural Directive." />
+    <option name="LAST_COMMIT_MESSAGE" value="Sezione 7, lezione 92. Building a Structural Directive." />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
