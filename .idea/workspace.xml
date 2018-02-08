@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c25304a-e1d0-4c1d-95ae-1971932ba655" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/recipeBook/src/app/shared/dropdown.directive.ts" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/directives-start/src/app/app.component.html" afterPath="$PROJECT_DIR$/directives-start/src/app/app.component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/directives-start/src/app/app.component.ts" afterPath="$PROJECT_DIR$/directives-start/src/app/app.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/recipeBook/src/app/app.module.ts" afterPath="$PROJECT_DIR$/recipeBook/src/app/app.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/recipeBook/src/app/header/header.component.html" afterPath="$PROJECT_DIR$/recipeBook/src/app/header/header.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/recipeBook/src/app/recipes/recipe-detail/recipe-detail.component.html" afterPath="$PROJECT_DIR$/recipeBook/src/app/recipes/recipe-detail/recipe-detail.component.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,28 +23,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="shopping-list.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-list.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="47" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shopping-list.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-list.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="37" lean-forward="false" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
-              <folding>
-                <element signature="e#0#50#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/directives-start/src/app/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
@@ -65,7 +45,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/directives-start/src/app/app.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="705">
@@ -75,11 +55,65 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="protractor.conf.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recipeBook/protractor.conf.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dropdown.directive.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recipeBook/src/app/shared/dropdown.directive.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recipeBook/src/app/app.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="21" lean-forward="false" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="recipe-detail.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recipeBook/src/app/recipes/recipe-detail/recipe-detail.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="38" lean-forward="false" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.component.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/recipeBook/src/app/header/header.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="unless.directive.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/directives-start/src/app/unless.directive.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+            <state relative-caret-position="180">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -95,38 +129,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="basic-highlight.directive.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/directives-start/src/app/basic-highlight/basic-highlight.directive.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="64" lean-forward="false" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.component.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/directives-start/src/app/app.component.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.component.spec.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/directives-start/src/app/app.component.spec.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#55#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -135,12 +137,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/first-app/src/app/servers/servers.component.html" />
         <option value="$PROJECT_DIR$/basics-assignment-3-start/src/app/app.component.css" />
         <option value="$PROJECT_DIR$/basics-assignment-3-start/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/basics-assignment-3-start/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/recipeBook/.angular-cli.json" />
-        <option value="$PROJECT_DIR$/recipeBook/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/recipeBook/src/app/shared/ingredient.model.ts" />
         <option value="$PROJECT_DIR$/cmp-databinding-start/README.md" />
         <option value="$PROJECT_DIR$/cmp-databinding-start/src/app/app.component.css" />
@@ -162,7 +162,6 @@
         <option value="$PROJECT_DIR$/cmp-databinding-assignment-start/src/app/even/even.component.css" />
         <option value="$PROJECT_DIR$/cmp-databinding-assignment-start/src/app/game-control/game-control.component.css" />
         <option value="$PROJECT_DIR$/cmp-databinding-assignment-start/src/app/odd/odd.component.css" />
-        <option value="$PROJECT_DIR$/recipeBook/src/app/header/header.component.html" />
         <option value="$PROJECT_DIR$/recipeBook/src/app/header/header.component.ts" />
         <option value="$PROJECT_DIR$/recipeBook/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/recipeBook/src/app/app.component.html" />
@@ -173,7 +172,6 @@
         <option value="$PROJECT_DIR$/recipeBook/src/app/recipes/recipes.component.ts" />
         <option value="$PROJECT_DIR$/recipeBook/src/app/recipes/recipe-detail/recipe-detail.component.ts" />
         <option value="$PROJECT_DIR$/recipeBook/src/app/recipes/recipes.component.html" />
-        <option value="$PROJECT_DIR$/recipeBook/src/app/recipes/recipe-detail/recipe-detail.component.html" />
         <option value="$PROJECT_DIR$/recipeBook/src/app/recipes/recipe-list/recipe-list.component.ts" />
         <option value="$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-edit/shopping-edit.component.html" />
         <option value="$PROJECT_DIR$/recipeBook/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" />
@@ -186,6 +184,10 @@
         <option value="$PROJECT_DIR$/directives-start/src/app/unless.directive.ts" />
         <option value="$PROJECT_DIR$/directives-start/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/directives-start/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/recipeBook/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/recipeBook/src/app/shared/dropdown.directive.ts" />
+        <option value="$PROJECT_DIR$/recipeBook/src/app/recipes/recipe-detail/recipe-detail.component.html" />
+        <option value="$PROJECT_DIR$/recipeBook/src/app/header/header.component.html" />
       </list>
     </option>
   </component>
@@ -236,28 +238,53 @@
             <path>
               <item name="udemyAngular" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemyAngular" type="462c0819:PsiDirectoryNode" />
-              <item name="directives-start" type="462c0819:PsiDirectoryNode" />
+              <item name="recipeBook" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="udemyAngular" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemyAngular" type="462c0819:PsiDirectoryNode" />
-              <item name="directives-start" type="462c0819:PsiDirectoryNode" />
+              <item name="recipeBook" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="udemyAngular" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemyAngular" type="462c0819:PsiDirectoryNode" />
-              <item name="directives-start" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemyAngular" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemyAngular" type="462c0819:PsiDirectoryNode" />
-              <item name="directives-start" type="462c0819:PsiDirectoryNode" />
+              <item name="recipeBook" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="better-highlight" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="udemyAngular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemyAngular" type="462c0819:PsiDirectoryNode" />
+              <item name="recipeBook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="header" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="udemyAngular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemyAngular" type="462c0819:PsiDirectoryNode" />
+              <item name="recipeBook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="recipes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="udemyAngular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemyAngular" type="462c0819:PsiDirectoryNode" />
+              <item name="recipeBook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="recipes" type="462c0819:PsiDirectoryNode" />
+              <item name="recipe-detail" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="udemyAngular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemyAngular" type="462c0819:PsiDirectoryNode" />
+              <item name="recipeBook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="shared" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -313,14 +340,7 @@
       <option name="presentableId" value="Default" />
       <updated>1516207936747</updated>
       <workItem from="1516207938237" duration="10757000" />
-      <workItem from="1516625583563" duration="77044000" />
-    </task>
-    <task id="LOCAL-00045" summary="Sezione 3, lezione 52. Creating an &quot;Ingredient&quot; Model">
-      <created>1517614978916</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1517614978916</updated>
+      <workItem from="1516625583563" duration="79688000" />
     </task>
     <task id="LOCAL-00046" summary="Sezione 3, lezione 53. Creating and Outputting the Shopping List">
       <created>1517617757465</created>
@@ -658,11 +678,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518095611668</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="Sezione 7, lezione 93. Understanding ngSwitch.">
+      <created>1518095765749</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1518095765749</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87801000" />
+    <option name="totallyTimeSpent" value="90445000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -695,6 +722,26 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5024665" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.49753347" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24062878" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.49576783" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39903265" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.50423217" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -764,35 +811,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/recipeBook/src/app/shared/ingredient.model.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="56" lean-forward="false" selection-start-line="1" selection-start-column="56" selection-end-line="1" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmp-databinding-start/src/app/app.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#55#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmp-databinding-start/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="387">
-            <caret line="38" column="3" lean-forward="false" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cmp-databinding-start/src/app/app.component.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -986,14 +1004,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recipeBook/src/app/header/header.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="54" lean-forward="false" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/recipeBook/src/app/header/header.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1064,16 +1074,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recipeBook/src/app/recipes/recipe-detail/recipe-detail.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="134" lean-forward="false" selection-start-line="1" selection-start-column="134" selection-end-line="1" selection-end-column="134" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/recipeBook/src/app/recipes/recipe-list/recipe-list.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -1129,7 +1129,7 @@
         <state relative-caret-position="285">
           <caret line="19" column="37" lean-forward="false" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
           <folding>
-            <element signature="e#0#50#0" expanded="true" />
+            <element signature="e#0#50#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1139,7 +1139,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#55#0" expanded="true" />
+            <element signature="e#0#55#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1168,14 +1168,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/directives-start/src/app/unless.directive.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/directives-start/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -1198,6 +1190,58 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
           <caret line="49" column="25" lean-forward="false" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipeBook/protractor.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipeBook/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="21" lean-forward="false" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/directives-start/src/app/unless.directive.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipeBook/src/app/shared/dropdown.directive.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipeBook/src/app/recipes/recipe-detail/recipe-detail.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="38" lean-forward="false" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipeBook/src/app/header/header.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
           <folding />
         </state>
       </provider>
