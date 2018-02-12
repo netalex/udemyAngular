@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c25304a-e1d0-4c1d-95ae-1971932ba655" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-start/src/app/logging.service.ts" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services-start/src/app/new-account/new-account.component.ts" afterPath="$PROJECT_DIR$/services-start/src/app/new-account/new-account.component.ts" />
     </list>
@@ -54,11 +53,9 @@
       <file leaf-file-name="new-account.component.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/services-start/src/app/new-account/new-account.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
-              <folding>
-                <element signature="e#0#64#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="270">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -370,14 +367,7 @@
       <option name="presentableId" value="Default" />
       <updated>1516207936747</updated>
       <workItem from="1516207938237" duration="10757000" />
-      <workItem from="1516625583563" duration="82328000" />
-    </task>
-    <task id="LOCAL-00048" summary="Sezione 3, lezione 54. Adding a Shopping List Edit Section">
-      <created>1517622027982</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1517622027982</updated>
+      <workItem from="1516625583563" duration="82465000" />
     </task>
     <task id="LOCAL-00049" summary="Sezione 3, lezione 54. Adding a Shopping List Edit Section">
       <created>1517622097710</created>
@@ -715,11 +705,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518446163294</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="Sezione 9, lezione 97. Creating a Logging Service - using without getter and setter">
+      <created>1518447059220</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1518447059221</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93085000" />
+    <option name="totallyTimeSpent" value="93222000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -809,7 +806,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Sezione 5, lezione 67. Understanding View Encapsulation" />
     <MESSAGE value="Sezione 5, lezione 68. More on View Encapsulation" />
     <MESSAGE value="Sezione 5, lezione 69. Using Local References in Templates" />
     <MESSAGE value="errore corretto https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/questions/3626972?utm_campaign=email&amp;utm_source=sendgrid.com&amp;utm_medium=email" />
@@ -834,7 +830,8 @@
     <MESSAGE value="Sezione 7, lezione 93. Understanding ngSwitch." />
     <MESSAGE value="Sezione 7, lezione 94. Building and Using a Dropdown Directive." />
     <MESSAGE value="Sezione 9, lezione 96- Why would you Need Services?" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sezione 9, lezione 96- Why would you Need Services?" />
+    <MESSAGE value="Sezione 9, lezione 97. Creating a Logging Service - using without getter and setter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sezione 9, lezione 97. Creating a Logging Service - using without getter and setter" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1271,11 +1268,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/services-start/src/app/new-account/new-account.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#64#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
