@@ -372,14 +372,7 @@
       <updated>1516207936747</updated>
       <workItem from="1516207938237" duration="10757000" />
       <workItem from="1516625583563" duration="83556000" />
-      <workItem from="1518648465997" duration="164000" />
-    </task>
-    <task id="LOCAL-00052" summary="Sezione 5, lezione 60. Splitting Apps into Components">
-      <created>1517666207380</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1517666207380</updated>
+      <workItem from="1518648465997" duration="176000" />
     </task>
     <task id="LOCAL-00053" summary="Sezione 5, lezione 60. Splitting Apps into Components">
       <created>1517667343814</created>
@@ -717,11 +710,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518648654788</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="Sezione 9, lezione 98. Injecting the Logging Service into Components">
+      <created>1518648661894</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1518648661894</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94477000" />
+    <option name="totallyTimeSpent" value="94489000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
