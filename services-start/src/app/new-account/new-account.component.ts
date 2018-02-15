@@ -15,8 +15,8 @@ export class NewAccountComponent {
   constructor(private logginService:LoggingService,
               private accountService:AccountService){
     this.accountService.statusUpdated.subscribe(
-      (status:string)=>alert('New Status: '+status);
-    );
+      (status:string)=>alert('New Status: '+status)
+    )
   }
 
   onCreateAccount(accountName: string, accountStatus: string) {
