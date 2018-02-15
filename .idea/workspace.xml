@@ -1,12 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c25304a-e1d0-4c1d-95ae-1971932ba655" name="Default" comment="">
+    <list default="true" id="2c25304a-e1d0-4c1d-95ae-1971932ba655" name="Default" comment="Sezione 9, lezione 103. Using Services for Cross-Component Communication.">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/src/assets/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/src/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/src/assets/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/src/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/.angular-cli.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/e2e/app.e2e-spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/e2e/app.po.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/e2e/tsconfig.e2e.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/how-to-use.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/protractor.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/src/app/active-users/active-users.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/src/app/active-users/active-users.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/src/app/active-users/active-users.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/src/app/app.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/src/app/app.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/src/app/app.component.spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/src/app/app.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/src/app/app.module.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/src/app/inactive-users/inactive-users.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/src/app/inactive-users/inactive-users.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/src/app/inactive-users/inactive-users.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/src/environments/environment.prod.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/src/environments/environment.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/src/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/src/main.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/src/polyfills.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/src/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/src/test.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/src/tsconfig.app.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/src/tsconfig.spec.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/src/typings.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/tsconfig.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-assignment-start/tslint.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/.angular-cli.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/e2e/app.e2e-spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/e2e/app.po.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/e2e/tsconfig.e2e.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/how-to-use.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/protractor.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/src/app/account/account.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/src/app/account/account.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/src/app/account/account.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/src/app/accounts.service.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/src/app/app.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/src/app/app.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/src/app/app.component.spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/src/app/app.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/src/app/app.module.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/src/app/logging.service.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/src/app/new-account/new-account.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/src/app/new-account/new-account.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/src/app/new-account/new-account.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/src/environments/environment.prod.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/src/environments/environment.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/src/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/src/main.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/src/polyfills.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/src/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/src/test.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/src/tsconfig.app.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/src/tsconfig.spec.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/src/typings.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/tsconfig.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/services-final/tslint.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services-start/src/app/account.service.ts" afterPath="$PROJECT_DIR$/services-start/src/app/account.service.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services-start/src/app/account/account.component.ts" afterPath="$PROJECT_DIR$/services-start/src/app/account/account.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services-start/src/app/app.component.html" afterPath="$PROJECT_DIR$/services-start/src/app/app.component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services-start/src/app/new-account/new-account.component.ts" afterPath="$PROJECT_DIR$/services-start/src/app/new-account/new-account.component.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -241,40 +311,6 @@
               <item name="udemyAngular" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemyAngular" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="udemyAngular" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemyAngular" type="462c0819:PsiDirectoryNode" />
-              <item name="services-start" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemyAngular" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemyAngular" type="462c0819:PsiDirectoryNode" />
-              <item name="services-start" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemyAngular" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemyAngular" type="462c0819:PsiDirectoryNode" />
-              <item name="services-start" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemyAngular" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemyAngular" type="462c0819:PsiDirectoryNode" />
-              <item name="services-start" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="account" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemyAngular" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemyAngular" type="462c0819:PsiDirectoryNode" />
-              <item name="services-start" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="new-account" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -331,14 +367,7 @@
       <updated>1516207936747</updated>
       <workItem from="1516207938237" duration="10757000" />
       <workItem from="1516625583563" duration="83556000" />
-      <workItem from="1518648465997" duration="5215000" />
-    </task>
-    <task id="LOCAL-00059" summary="Sezione 5, lezione 65. Assigning an Alias to Custom Events">
-      <created>1517673634439</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1517673634439</updated>
+      <workItem from="1518648465997" duration="5437000" />
     </task>
     <task id="LOCAL-00060" summary="Sezione 5, lezione 67. Understanding View Encapsulation">
       <created>1517677286283</created>
@@ -676,11 +705,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518664822350</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="Sezione 9, lezione 103. Using Services for Cross-Component Communication.">
+      <created>1518666672455</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1518666672455</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99528000" />
+    <option name="totallyTimeSpent" value="99750000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -693,10 +729,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.49576783" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.49576783" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5024665" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -770,7 +805,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="sezione 3 lezine 70. Getting Access to the Template &amp; DOM with @ViewChild" />
     <MESSAGE value="sezione 3 lezine 71. Projecting Content into Components with ng-content" />
     <MESSAGE value="sezione 3 lezine 73. Seeing Lifecycle Hooks in Action" />
     <MESSAGE value="sezione 3 lezione 74. Lifecycle Hooks and Template Access" />
@@ -795,7 +829,8 @@
     <MESSAGE value="Sezione 9, lezione 99. Creating a Data Service" />
     <MESSAGE value="Sezione 9, lezione 101. How many Instances of Service Should It Be?." />
     <MESSAGE value="Sezione 9, lezione 02. Injecting Services into Services." />
-    <option name="LAST_COMMIT_MESSAGE" value="Sezione 9, lezione 02. Injecting Services into Services." />
+    <MESSAGE value="Sezione 9, lezione 103. Using Services for Cross-Component Communication." />
+    <option name="LAST_COMMIT_MESSAGE" value="Sezione 9, lezione 103. Using Services for Cross-Component Communication." />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
