@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c25304a-e1d0-4c1d-95ae-1971932ba655" name="Default" comment="Sezione 9, lezione 100. Understanding the Hierarchical Injector.">
+    <list default="true" id="2c25304a-e1d0-4c1d-95ae-1971932ba655" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services-start/src/app/new-account/new-account.component.ts" afterPath="$PROJECT_DIR$/services-start/src/app/new-account/new-account.component.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -324,14 +323,7 @@
       <updated>1516207936747</updated>
       <workItem from="1516207938237" duration="10757000" />
       <workItem from="1516625583563" duration="83556000" />
-      <workItem from="1518648465997" duration="3443000" />
-    </task>
-    <task id="LOCAL-00056" summary="Sezione 5, lezione 63. Assigning an Alias to Custom Properties">
-      <created>1517671134721</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1517671134721</updated>
+      <workItem from="1518648465997" duration="3491000" />
     </task>
     <task id="LOCAL-00057" summary="Sezione 5, lezione 64. Binding to Custom Events">
       <created>1517672621761</created>
@@ -669,11 +661,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518659460563</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="Sezione 9, lezione 101. How many Instances of Service Should It Be?.">
+      <created>1518663435707</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1518663435707</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97756000" />
+    <option name="totallyTimeSpent" value="97804000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -763,7 +762,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="errore corretto https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/questions/3626972?utm_campaign=email&amp;utm_source=sendgrid.com&amp;utm_medium=email" />
     <MESSAGE value="69. Using Local References in Templates" />
     <MESSAGE value="sezione 3 lezine 70. Getting Access to the Template &amp; DOM with @ViewChild" />
     <MESSAGE value="sezione 3 lezine 71. Projecting Content into Components with ng-content" />
@@ -788,7 +786,8 @@
     <MESSAGE value="Sezione 9, lezione 97. Creating a Logging Service - using without getter and setter" />
     <MESSAGE value="Sezione 9, lezione 98. Injecting the Logging Service into Components" />
     <MESSAGE value="Sezione 9, lezione 99. Creating a Data Service" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sezione 9, lezione 99. Creating a Data Service" />
+    <MESSAGE value="Sezione 9, lezione 101. How many Instances of Service Should It Be?." />
+    <option name="LAST_COMMIT_MESSAGE" value="Sezione 9, lezione 101. How many Instances of Service Should It Be?." />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
